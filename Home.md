@@ -9,3 +9,7 @@ Welcome to the palworld-server-tool wiki!
 ### [1.2.1.本面板使用容器部署](./deploy/container_container.md)
 ## 1.3.游戏本体使用k8s部署
 ### [1.3.1本面板使用k8s部署](./deploy/k8s_k8s.md)
+
+# 2.Q&A
+## 2.1.[RCON说明](./qa/rcon.md)
+## 2.2.[游戏本体存档路径说明](./qa/save.md)
